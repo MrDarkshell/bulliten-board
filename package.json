@@ -1,0 +1,19 @@
+{
+    "name": "bulletin-board",
+    "version": "1.0.0",
+    "description": "A Note Board created with ReactJS",
+    "main": "note.js",
+    "scripts": {
+        "start": "httpstar -p 3000"
+    },
+    "keywords": [
+        "react",
+        "javascript",
+        "bulletin",
+        "board",
+        "App",
+        "Note"
+    ],
+    "author": "DARKSHELL",
+    "license": "ISC"
+}
